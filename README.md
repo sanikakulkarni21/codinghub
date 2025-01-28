@@ -1,3 +1,3 @@
 # codinghub
 
-## welcome to transflower
+## types of repositories 1. public   2. private
