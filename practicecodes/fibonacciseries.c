@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
-
+printf("hello world");
+printf("here is the fibonacci series");
   int i, n;
 
   // initialize first and second terms
